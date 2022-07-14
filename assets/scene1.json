@@ -1,0 +1,90 @@
+{
+  "imageFolder": "assets/",
+  "imageFormat": ".png",
+  "images": [
+    {
+      "name": "coin",
+      "width": 40,
+      "height": 60,
+      "x": 50,
+      "y": 20
+    },
+    {
+      "name": "ready",
+      "width": 60,
+      "height": 60,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "soil",
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "cell",
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "chicken",
+      "width": 60,
+      "height": 60,
+      "x": 1,
+      "y": 0
+    },
+    {
+      "name": "wheat",
+      "width": 40,
+      "height": 60,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "cow",
+      "width": 60,
+      "height": 60,
+      "x": 2,
+      "y": 0
+    },
+    {
+      "name": "clear",
+      "width": 60,
+      "height": 60,
+      "x": 3,
+      "y": 0
+    },
+    {
+      "name": "egg",
+      "width": 60,
+      "height": 60,
+      "x": 0,
+      "y": 1
+    },
+    {
+      "name": "milk",
+      "width": 60,
+      "height": 60,
+      "x": 1,
+      "y": 1
+    }
+  ],
+  "texts": [
+    {
+      "name": "inventory",
+      "value": "Инвентарь",
+      "x": 720,
+      "y": 100
+    },
+    {
+      "name": "shop",
+      "value": "Магазин",
+      "x": 720,
+      "y": 400
+    }
+  ]
+}
