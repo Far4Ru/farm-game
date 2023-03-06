@@ -1,5 +1,7 @@
 # Игра в жанре "ферма"
 
+[Демонстрация](https://far4ru.github.io/farm-game/)
+
 ![Игра-ферма](/images/github.png)
 
 ## Функциональность
